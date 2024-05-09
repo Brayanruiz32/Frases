@@ -13,7 +13,7 @@ import com.frases.frasesseries.model.Frase;
 import com.frases.frasesseries.repository.FraseRepository;
 
 @Service
-public class ServiceRepository {
+public class FraseService {
 
     @Autowired
     FraseRepository repositorio;
